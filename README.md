@@ -1,9 +1,18 @@
-# 🌤 SkyCast AI Weather App
+# SkyCast ☁️
 
-A smart AI-powered weather app built with React Native.
+AI-powered weather app built using React Native + Expo.
 
-Features:
-- Weather detection 🌦
-- AI voice assistant 🤖
-- Travel tips 🌍
-- Dynamic UI based on weather ☀️🌧️☁️🔥
+## Features
+- Real-time weather updates
+- AI voice assistant
+- Smart travel tips
+- Clean UI/UX design
+
+## Tech Stack
+- React Native
+- Expo
+- Firebase
+- OpenWeather API
+
+## Demo
+(Add screenshots here)

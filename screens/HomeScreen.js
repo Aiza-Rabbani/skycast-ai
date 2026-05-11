@@ -12,7 +12,7 @@ export default function HomeScreen({ navigation }) {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
 
-  const apiKey = "65f23c7aa30e95ae4cf4a700c52faf1f";
+  const apiKey = "YOUR_API_KEY_HERE";
   const url = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
   const searchWeather = async () => {
