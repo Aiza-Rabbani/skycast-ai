@@ -14,5 +14,3 @@ AI-powered weather app built using React Native + Expo.
 - Firebase
 - OpenWeather API
 
-## Demo
-(Add screenshots here)
